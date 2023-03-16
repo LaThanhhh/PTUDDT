@@ -1,0 +1,14 @@
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\bin\Debug\BT_ThietKeForm.exe.config
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\bin\Debug\BT_ThietKeForm.exe
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\bin\Debug\BT_ThietKeForm.pdb
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\obj\Debug\BT_ThietKeForm.csproj.AssemblyReference.cache
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\obj\Debug\BT_ThietKeForm.Properties.Resources.resources
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\obj\Debug\BT_ThietKeForm.csproj.GenerateResource.cache
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\obj\Debug\BT_ThietKeForm.csproj.CoreCompileInputs.cache
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\obj\Debug\BT_ThietKeForm.exe
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\obj\Debug\BT_ThietKeForm.pdb
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\obj\Debug\BT_ThietKeForm.frmBai1.resources
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\obj\Debug\BT_ThietKeForm.frmChinh.resources
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\obj\Debug\BT_ThietKeForm.frmBai2.resources
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\obj\Debug\BT_ThietKeForm.frmBai3.resources
+D:\ThucHanh\BT_ThietKeForm\BT_ThietKeForm\obj\Debug\BT_ThietKeForm.frmBai4.resources
