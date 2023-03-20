@@ -1,6 +1,0 @@
-D:\PTUDDT\Lab02\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
-D:\PTUDDT\Lab02\Lab02\Lab02\obj\Debug\Lab02.frmGiaoVien.resources
-D:\PTUDDT\Lab02\Lab02\Lab02\obj\Debug\Lab02.frmTBGiaoVien.resources
-D:\PTUDDT\Lab02\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
-D:\PTUDDT\Lab02\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
-D:\PTUDDT\Lab02\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
