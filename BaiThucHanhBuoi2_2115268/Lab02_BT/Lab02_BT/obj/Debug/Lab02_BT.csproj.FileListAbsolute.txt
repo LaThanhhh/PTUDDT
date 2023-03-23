@@ -1,0 +1,12 @@
+D:\PTUDDT\BaiThucHanhBuoi2_2115268\Lab02_BT\Lab02_BT\bin\Debug\Lab02_BT.exe.config
+D:\PTUDDT\BaiThucHanhBuoi2_2115268\Lab02_BT\Lab02_BT\bin\Debug\Lab02_BT.exe
+D:\PTUDDT\BaiThucHanhBuoi2_2115268\Lab02_BT\Lab02_BT\bin\Debug\Lab02_BT.pdb
+D:\PTUDDT\BaiThucHanhBuoi2_2115268\Lab02_BT\Lab02_BT\obj\Debug\Lab02_BT.csproj.AssemblyReference.cache
+D:\PTUDDT\BaiThucHanhBuoi2_2115268\Lab02_BT\Lab02_BT\obj\Debug\Lab02_BT.frmGiaoVien.resources
+D:\PTUDDT\BaiThucHanhBuoi2_2115268\Lab02_BT\Lab02_BT\obj\Debug\Lab02_BT.frmTBGiaoVien.resources
+D:\PTUDDT\BaiThucHanhBuoi2_2115268\Lab02_BT\Lab02_BT\obj\Debug\Lab02_BT.Properties.Resources.resources
+D:\PTUDDT\BaiThucHanhBuoi2_2115268\Lab02_BT\Lab02_BT\obj\Debug\Lab02_BT.csproj.GenerateResource.cache
+D:\PTUDDT\BaiThucHanhBuoi2_2115268\Lab02_BT\Lab02_BT\obj\Debug\Lab02_BT.csproj.CoreCompileInputs.cache
+D:\PTUDDT\BaiThucHanhBuoi2_2115268\Lab02_BT\Lab02_BT\obj\Debug\Lab02_BT.exe
+D:\PTUDDT\BaiThucHanhBuoi2_2115268\Lab02_BT\Lab02_BT\obj\Debug\Lab02_BT.pdb
+D:\PTUDDT\BaiThucHanhBuoi2_2115268\Lab02_BT\Lab02_BT\obj\Debug\Lab02_BT.frmTimTTGV.resources
