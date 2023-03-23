@@ -1,0 +1,13 @@
+D:\PTUDDT\New folder\BTBuoiLyThuyetSo2\BTBuoiLyThuyetSo2\bin\Debug\BTBuoiLyThuyetSo2.exe.config
+D:\PTUDDT\New folder\BTBuoiLyThuyetSo2\BTBuoiLyThuyetSo2\bin\Debug\BTBuoiLyThuyetSo2.exe
+D:\PTUDDT\New folder\BTBuoiLyThuyetSo2\BTBuoiLyThuyetSo2\bin\Debug\BTBuoiLyThuyetSo2.pdb
+D:\PTUDDT\New folder\BTBuoiLyThuyetSo2\BTBuoiLyThuyetSo2\obj\Debug\BTBuoiLyThuyetSo2.csproj.AssemblyReference.cache
+D:\PTUDDT\New folder\BTBuoiLyThuyetSo2\BTBuoiLyThuyetSo2\obj\Debug\BTBuoiLyThuyetSo2.frm1.resources
+D:\PTUDDT\New folder\BTBuoiLyThuyetSo2\BTBuoiLyThuyetSo2\obj\Debug\BTBuoiLyThuyetSo2.frm2.resources
+D:\PTUDDT\New folder\BTBuoiLyThuyetSo2\BTBuoiLyThuyetSo2\obj\Debug\BTBuoiLyThuyetSo2.frm3.resources
+D:\PTUDDT\New folder\BTBuoiLyThuyetSo2\BTBuoiLyThuyetSo2\obj\Debug\BTBuoiLyThuyetSo2.frmTreeview.resources
+D:\PTUDDT\New folder\BTBuoiLyThuyetSo2\BTBuoiLyThuyetSo2\obj\Debug\BTBuoiLyThuyetSo2.Properties.Resources.resources
+D:\PTUDDT\New folder\BTBuoiLyThuyetSo2\BTBuoiLyThuyetSo2\obj\Debug\BTBuoiLyThuyetSo2.csproj.GenerateResource.cache
+D:\PTUDDT\New folder\BTBuoiLyThuyetSo2\BTBuoiLyThuyetSo2\obj\Debug\BTBuoiLyThuyetSo2.csproj.CoreCompileInputs.cache
+D:\PTUDDT\New folder\BTBuoiLyThuyetSo2\BTBuoiLyThuyetSo2\obj\Debug\BTBuoiLyThuyetSo2.exe
+D:\PTUDDT\New folder\BTBuoiLyThuyetSo2\BTBuoiLyThuyetSo2\obj\Debug\BTBuoiLyThuyetSo2.pdb

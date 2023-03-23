@@ -1,0 +1,10 @@
+D:\PTUDDT\New folder\BaiTap\BaiTap\bin\Debug\BaiTap.exe.config
+D:\PTUDDT\New folder\BaiTap\BaiTap\bin\Debug\BaiTap.exe
+D:\PTUDDT\New folder\BaiTap\BaiTap\bin\Debug\BaiTap.pdb
+D:\PTUDDT\New folder\BaiTap\BaiTap\obj\Debug\BaiTap.csproj.AssemblyReference.cache
+D:\PTUDDT\New folder\BaiTap\BaiTap\obj\Debug\BaiTap.frmBT.resources
+D:\PTUDDT\New folder\BaiTap\BaiTap\obj\Debug\BaiTap.Properties.Resources.resources
+D:\PTUDDT\New folder\BaiTap\BaiTap\obj\Debug\BaiTap.csproj.GenerateResource.cache
+D:\PTUDDT\New folder\BaiTap\BaiTap\obj\Debug\BaiTap.csproj.CoreCompileInputs.cache
+D:\PTUDDT\New folder\BaiTap\BaiTap\obj\Debug\BaiTap.exe
+D:\PTUDDT\New folder\BaiTap\BaiTap\obj\Debug\BaiTap.pdb
